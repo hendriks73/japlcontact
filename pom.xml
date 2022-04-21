@@ -5,7 +5,7 @@
     <artifactId>japlcontact</artifactId>
     <packaging>jar</packaging>
     <name>Japlcontact</name>
-    <version>0.9.4-SNAPSHOT</version>
+    <version>0.9.5-SNAPSHOT</version>
     <description>Java API for the Apple Contacts app (macOS)</description>
     <url>https://github.com/japlscript/japlcontact</url>
     <inceptionYear>2021</inceptionYear>
